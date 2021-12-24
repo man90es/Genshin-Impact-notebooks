@@ -1,0 +1,27 @@
+name: Deploy pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          cd $GITHUB_WORKSPACE
+          sudo apt-get install -y python3-pip jupyter-core libjpeg-dev zlib1g-dev
+          pip3 install -r requirements.txt
+      - name: Build html
+        run: |
+          cd $GITHUB_WORKSPACE
+          ~/.local/bin/jupyter-nbconvert --execute --to HTML Character_data_visualisation.ipynb
+          mkdir build
+          cp Character_data_visualisation.html build/index.html
+      - name: Deploy on github pages
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: gh-pages
+          folder: build
