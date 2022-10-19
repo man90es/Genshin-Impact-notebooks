@@ -1,49 +1,60 @@
-name,release,sex,body,weapon,region,vision,quality,background,of_s_gacha,of_l_gacha,of_event,of_shop,of_gameplay
-albedo,2020-12-23,male,boy,sword,mondstadt,geo,5,yellow,0,1,0,0,0
-aloy,2021-10-13,female,girl,bow,none,cryo,5,red,0,0,1,0,0
-amber,2020-09-28,female,girl,bow,mondstadt,pyro,4,purple,1,1,0,1,1
-arataki itto,2021-12-14,male,male,claymore,inazuma,geo,5,yellow,0,1,0,0,0
-ayato,2022-03-30,male,male,sword,inazuma,hydro,5,yellow,0,1,0,0,0
-barbara,2020-09-28,female,girl,catalyst,mondstadt,hydro,4,purple,1,1,1,1,0
-beidou,2020-09-28,female,lady,claymore,liyue,electro,4,purple,1,1,1,1,0
-bennett,2020-09-28,male,boy,sword,mondstadt,pyro,4,purple,1,1,1,1,0
-chongyun,2020-09-28,male,boy,claymore,liyue,cryo,4,purple,1,1,1,0,0
-diluc,2020-09-28,male,male,claymore,mondstadt,pyro,5,yellow,1,1,0,0,0
-diona,2020-11-11,female,loli,bow,mondstadt,cryo,4,purple,1,1,1,0,0
-eula,2021-05-18,female,lady,claymore,mondstadt,cryo,5,yellow,0,1,0,0,0
-fischl,2020-09-28,female,girl,bow,mondstadt,electro,4,purple,1,1,1,1,0
-ganyu,2021-01-12,female,girl,bow,liyue,cryo,5,yellow,0,1,0,0,0
-gorou,2021-12-14,male,boy,bow,inazuma,geo,4,purple,1,1,0,0,0
-hu tao,2021-03-02,female,girl,polearm,liyue,pyro,5,yellow,0,1,0,0,0
-jean,2020-09-28,female,lady,sword,mondstadt,anemo,5,yellow,1,1,0,0,0
-kaedehara kazuha,2021-06-29,male,boy,sword,inazuma,anemo,5,yellow,0,1,0,0,0
-kaeya,2020-09-28,male,male,sword,mondstadt,cryo,4,purple,1,1,1,1,1
-kamisato ayaka,2021-07-21,female,girl,sword,inazuma,cryo,5,yellow,0,1,0,0,0
-keqing,2020-09-28,female,girl,sword,liyue,electro,5,yellow,1,1,0,0,0
-klee,2020-10-20,female,loli,catalyst,mondstadt,pyro,5,yellow,0,1,0,0,0
-kujou sara,2021-09-01,female,lady,bow,inazuma,electro,4,purple,1,1,0,0,0
-lisa,2020-09-28,female,lady,catalyst,mondstadt,electro,4,purple,1,1,1,1,1
-mona,2020-09-28,female,girl,catalyst,mondstadt,hydro,5,yellow,1,1,0,0,0
-ningguang,2020-09-28,female,lady,catalyst,liyue,geo,4,purple,1,1,1,1,0
-noelle,2020-09-28,female,girl,claymore,mondstadt,geo,4,purple,1,1,1,1,0
-qiqi,2020-09-28,female,loli,sword,liyue,cryo,5,yellow,1,1,0,0,0
-raiden shogun,2021-09-01,female,lady,polearm,inazuma,electro,5,yellow,0,1,0,0,0
-razor,2020-09-28,male,boy,claymore,mondstadt,electro,4,purple,1,1,1,1,0
-rosaria,2021-04-06,female,lady,polearm,mondstadt,cryo,4,purple,1,1,1,0,0
-sangonomiya kokomi,2021-09-21,female,girl,catalyst,inazuma,hydro,5,yellow,0,1,0,0,0
-sayu,2021-08-10,female,loli,claymore,inazuma,anemo,4,purple,1,1,0,0,0
-shenhe,2022-01-05,female,lady,polearm,liyue,cryo,5,yellow,0,1,0,0,0
-sucrose,2020-09-28,female,girl,catalyst,mondstadt,anemo,4,purple,1,1,1,0,0
-tartaglia,2020-11-11,male,male,bow,snezhnaya,hydro,5,yellow,0,1,0,0,0
-thoma,2021-11-02,male,male,polearm,inazuma,pyro,4,purple,1,1,0,0,0
-traveller,2020-09-28,male/female,boy/girl,sword,none,anemo/geo/electro,5,yellow,0,0,0,0,1
-venti,2020-09-28,male,boy,bow,mondstadt,anemo,5,yellow,0,1,0,0,0
-xiangling,2020-09-28,female,girl,polearm,liyue,pyro,4,purple,1,1,1,1,1
-xiao,2021-02-03,male,boy,polearm,liyue,anemo,5,yellow,0,1,0,0,0
-xingqiu,2020-09-28,male,boy,sword,liyue,hydro,4,purple,1,1,1,1,0
-xinyan,2020-12-01,female,girl,claymore,liyue,pyro,4,purple,1,1,1,0,0
-yae miko,2022-02-16,female,lady,catalyst,inazuma,electro,5,yellow,0,1,0,0,0
-yanfei,2021-04-28,female,girl,catalyst,liyue,pyro,4,purple,1,1,1,0,0
-yoimiya,2021-08-10,female,girl,bow,inazuma,pyro,5,yellow,0,1,0,0,0
-yun jin,2022-01-05,female,girl,polearm,liyue,geo,4,purple,1,1,1,0,0
-zhongli,2020-12-01,male,male,polearm,liyue,geo,5,yellow,0,1,0,0,0
+name,release,release_ver,sex,body,weapon,region,vision,quality,background,of_s_gacha,of_l_gacha,of_event,of_shop,of_gameplay
+albedo,2020-12-23,1.2,male,boy,sword,mondstadt,geo,5,yellow,0,1,0,0,0
+aloy,2021-10-13,2.2,female,girl,bow,none,cryo,5,red,0,0,1,0,0
+amber,2020-09-28,1.0,female,girl,bow,mondstadt,pyro,4,purple,1,1,0,1,1
+arataki itto,2021-12-14,2.3,male,male,claymore,inazuma,geo,5,yellow,0,1,0,0,0
+ayato,2022-03-30,2.6,male,male,sword,inazuma,hydro,5,yellow,0,1,0,0,0
+barbara,2020-09-28,1.0,female,girl,catalyst,mondstadt,hydro,4,purple,1,1,1,1,0
+beidou,2020-09-28,1.0,female,lady,claymore,liyue,electro,4,purple,1,1,1,1,0
+bennett,2020-09-28,1.0,male,boy,sword,mondstadt,pyro,4,purple,1,1,1,1,0
+candace,2022-09-28,3.1,female,lady,polearm,sumeru,hydro,4,purple,0,1,0,0,0
+chongyun,2020-09-28,1.0,male,boy,claymore,liyue,cryo,4,purple,1,1,1,0,0
+collei,2022-08-24,3.0,female,girl,bow,sumeru,dendro,4,purple,1,1,0,0,1
+cyno,2022-09-28,3.1,male,boy,polearm,sumeru,electro,5,yellow,0,1,0,0,0
+diluc,2020-09-28,1.0,male,male,claymore,mondstadt,pyro,5,yellow,1,1,0,0,0
+diona,2020-11-11,1.1,female,loli,bow,mondstadt,cryo,4,purple,1,1,1,0,0
+dori,2022-09-09,3.0,female,loli,claymore,sumeru,electro,4,purple,0,1,0,0,0
+eula,2021-05-18,1.5,female,lady,claymore,mondstadt,cryo,5,yellow,0,1,0,0,0
+fischl,2020-09-28,1.0,female,girl,bow,mondstadt,electro,4,purple,1,1,1,1,0
+ganyu,2021-01-12,1.2,female,girl,bow,liyue,cryo,5,yellow,0,1,0,0,0
+gorou,2021-12-14,2.3,male,boy,bow,inazuma,geo,4,purple,1,1,0,0,0
+hu tao,2021-03-02,1.3,female,girl,polearm,liyue,pyro,5,yellow,0,1,0,0,0
+jean,2020-09-28,1.0,female,lady,sword,mondstadt,anemo,5,yellow,1,1,0,0,0
+kaedehara kazuha,2021-06-29,1.6,male,boy,sword,inazuma,anemo,5,yellow,0,1,0,0,0
+kaeya,2020-09-28,1.0,male,male,sword,mondstadt,cryo,4,purple,1,1,1,1,1
+kamisato ayaka,2021-07-21,2.0,female,girl,sword,inazuma,cryo,5,yellow,0,1,0,0,0
+keqing,2020-09-28,1.0,female,girl,sword,liyue,electro,5,yellow,1,1,0,0,0
+klee,2020-10-20,1.0,female,loli,catalyst,mondstadt,pyro,5,yellow,0,1,0,0,0
+kujou sara,2021-09-01,2.1,female,lady,bow,inazuma,electro,4,purple,1,1,0,0,0
+kuki shinobu,2022-06-21,2.7,female,girl,sword,inazuma,electro,4,purple,0,1,0,0,0
+layla,2022-11-02,3.2,female,girl,sword,sumeru,cryo,4,purple,0,1,0,0,0
+lisa,2020-09-28,1.0,female,lady,catalyst,mondstadt,electro,4,purple,1,1,1,1,1
+mona,2020-09-28,1.0,female,girl,catalyst,mondstadt,hydro,5,yellow,1,1,0,0,0
+nahida,2022-11-02,3.2,female,loli,catalyst,sumeru,dendro,5,yellow,0,1,0,0,0
+nilou,2022-10-14,3.1,female,girl,sword,sumeru,hydro,5,yellow,0,1,0,0,0
+ningguang,2020-09-28,1.0,female,lady,catalyst,liyue,geo,4,purple,1,1,1,1,0
+noelle,2020-09-28,1.0,female,girl,claymore,mondstadt,geo,4,purple,1,1,1,1,0
+qiqi,2020-09-28,1.0,female,loli,sword,liyue,cryo,5,yellow,1,1,0,0,0
+raiden shogun,2021-09-01,2.1,female,lady,polearm,inazuma,electro,5,yellow,0,1,0,0,0
+razor,2020-09-28,1.0,male,boy,claymore,mondstadt,electro,4,purple,1,1,1,1,0
+rosaria,2021-04-06,1.4,female,lady,polearm,mondstadt,cryo,4,purple,1,1,1,0,0
+sangonomiya kokomi,2021-09-21,2.1,female,girl,catalyst,inazuma,hydro,5,yellow,0,1,0,0,0
+sayu,2021-08-10,2.0,female,loli,claymore,inazuma,anemo,4,purple,1,1,0,0,0
+shenhe,2022-01-05,2.4,female,lady,polearm,liyue,cryo,5,yellow,0,1,0,0,0
+shikanoin heizou,2022-07-13,2.8,male,boy,catalyst,inazuma,anemo,4,purple,0,1,0,0,0
+sucrose,2020-09-28,1.0,female,girl,catalyst,mondstadt,anemo,4,purple,1,1,1,0,0
+tartaglia,2020-11-11,1.1,male,male,bow,snezhnaya,hydro,5,yellow,0,1,0,0,0
+thoma,2021-11-02,2.2,male,male,polearm,inazuma,pyro,4,purple,1,1,0,0,0
+tighnari,2022-08-24,3.0,male,boy,bow,sumeru,dendro,5,yellow,1,1,0,0,0
+traveller,2020-09-28,1.0,male/female,boy/girl,sword,none,anemo/geo/electro,5,yellow,0,0,0,0,1
+venti,2020-09-28,1.0,male,boy,bow,mondstadt,anemo,5,yellow,0,1,0,0,0
+xiangling,2020-09-28,1.0,female,girl,polearm,liyue,pyro,4,purple,1,1,1,1,1
+xiao,2021-02-03,1.3,male,boy,polearm,liyue,anemo,5,yellow,0,1,0,0,0
+xingqiu,2020-09-28,1.0,male,boy,sword,liyue,hydro,4,purple,1,1,1,1,0
+xinyan,2020-12-01,1.1,female,girl,claymore,liyue,pyro,4,purple,1,1,1,0,0
+yae miko,2022-02-16,2.5,female,lady,catalyst,inazuma,electro,5,yellow,0,1,0,0,0
+yanfei,2021-04-28,1.5,female,girl,catalyst,liyue,pyro,4,purple,1,1,1,0,0
+yelan,2022-05-31,2.7,female,lady,bow,liyue,hydro,5,yellow,0,1,0,0,0
+yoimiya,2021-08-10,2.0,female,girl,bow,inazuma,pyro,5,yellow,0,1,0,0,0
+yun jin,2022-01-05,2.4,female,girl,polearm,liyue,geo,4,purple,1,1,1,0,0
+zhongli,2020-12-01,1.1,male,male,polearm,liyue,geo,5,yellow,0,1,0,0,0
